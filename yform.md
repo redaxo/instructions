@@ -1919,7 +1919,7 @@ Achte darauf, dass deine Datei:
 ---
 
 **Letzte Überprüfung:** Automatisch generiert  
-**Gültig für:** REDAXO 5.x und 6.x mit YForm
+**Gültig für:** REDAXO 5.x mit YForm
 
 
 
