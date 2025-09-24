@@ -266,7 +266,6 @@ try {
 | `removeConfig($key = null)` | Konfiguration entfernen |
 | `i18n($key, ...$params)` | Übersetzung abrufen |
 | `includeFile($file)` | Datei einbinden |
-| `getPlugin($name)` | Plugin abrufen |
 | `getProperty($key, $default = null)` | Property abrufen |
 | `setProperty($key, $value)` | Property setzen |
 
